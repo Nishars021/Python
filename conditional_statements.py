@@ -38,8 +38,8 @@
 
 #Used clever ternary conditional statement to check if the soup si hot or cold
 # temp = float(input("Enter the temperature of soup : "))
-# result = ("Hot","Cold") [temp<30]
-# print("Soup is",result)
+#  result = ("Hot","Cold") [temp<30]
+#  print("Soup is",result)
 
 #Calculating simple interest
 p=float(input("Enter principle amount : "))
